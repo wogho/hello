@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin>
+  <information>
+    <name>hELLO</name>
+    <version>4.10.6</version>
+    <description>
+      <![CDATA[ⓒ 2020-2024. Sangwoo Jeong.]]>
+    </description>
+  </information>
+  <author>
+    <name>SangWoo Jeong</name>
+    <homepage>http://pronist.tistory.com</homepage>
+    <email>pronist@naver.com</email>
+  </author>
+  <liststyle>
+    <item>
+      <value>list</value>
+      <label>[베이직] 리스트 (1단)</label>
+    </item>
+    <item>
+      <value>grid</value>
+      <label>[베이직] 그리드 (3단)</label>
+    </item>
+    <item>
+      <value>gallery</value>
+      <label>[베이직] 갤러리 (3단)</label>
+    </item>
+    <item>
+      <value>Z</value>
+      <label>[베이직] Z</label>
+    </item>
+  </liststyle>
+  <cover>
+    <item>
+      <name>list</name>
+      <label>[베이직] 리스트 (1단)</label>
+      <description>리스트 (1단)</description>
+    </item>
+    <item>
+      <name>grid</name>
+      <label>[베이직] 그리드 (3단)</label>
+      <description>그리드 (3단)</description>
+    </item>
+    <item>
+      <name>Z</name>
+      <label>[베이직] Z</label>
+      <description>Z</description>
+    </item>
+    <item>
+      <name>slider</name>
+      <label>[베이직] 슬라이더</label>
+      <description>슬라이더</description>
+    </item>
+    <item>
+      <name>gallery</name>
+      <label>[베이직] 갤러리 (3단)</label>
+      <description>갤러리</description>
+    </item>
+    <item>
+      <name>empty-line-1</name>
+      <label>[빈 줄] 빈 줄 (1)</label>
+      <description>[빈 줄] 빈 줄 (1)</description>
+    </item>
+    <item>
+      <name>empty-line-2</name>
+      <label>[빈 줄] 빈 줄 (2)</label>
+      <description>[빈 줄] 빈 줄 (2)</description>
+    </item>
+    <item>
+      <name>empty-line-3</name>
+      <label>[빈 줄] 빈 줄 (3)</label>
+      <description>[빈 줄] 빈 줄 (3)</description>
+    </item>
+    <item>
+      <name>empty-line-4</name>
+      <label>[빈 줄] 빈 줄 (4)</label>
+      <description>[빈 줄] 빈 줄 (4)</description>
+    </item>
+    <item>
+      <name>empty-line-5</name>
+      <label>[빈 줄] 빈 줄 (5)</label>
+      <description>[빈 줄] 빈 줄 (5)</description>
+    </item>
+    <item>
+      <name>profile</name>
+      <label>[포트폴리오] 프로필</label>
+      <description>[포트폴리오] 프로필</description>
+    </item>
+    <item>
+      <name>poster</name>
+      <label>[포트폴리오] 포스터</label>
+      <description>[포트폴리오] 포스터</description>
+    </item>
+    <item>
+      <name>square</name>
+      <label>[포트폴리오] 스퀘어</label>
+      <description>[포트폴리오] 스퀘어</description>
+    </item>
+    <item>
+      <name>picture-1-1-l</name>
+      <label>[포트폴리오] 사진 (1:1)/왼쪽</label>
+      <description>[포트폴리오] 사진 (1:1)/왼쪽</description>
+    </item>
+    <item>
+      <name>picture-1-1-c</name>
+      <label>[포트폴리오] 사진 (1:1)/중앙</label>
+      <description>[포트폴리오] 사진 (1:1)/중앙</description>
+    </item>
+    <item>
+      <name>picture-1-1-r</name>
+      <label>[포트폴리오] 사진 (1:1)/오른쪽</label>
+      <description>[포트폴리오] 사진 (1:1)/오른쪽</description>
+    </item>
+    <item>
+      <name>picture-2-3-l</name>
+      <label>[포트폴리오] 사진 (2:3)/왼쪽</label>
+      <description>[포트폴리오] 사진 (2:3)/왼쪽</description>
+    </item>
+    <item>
+      <name>picture-2-3-c</name>
+      <label>[포트폴리오] 사진 (2:3)/중앙</label>
+      <description>[포트폴리오] 사진 (2:3)/중앙</description>
+    </item>
+    <item>
+      <name>picture-2-3-r</name>
+      <label>[포트폴리오] 사진 (2:3)/오른쪽</label>
+      <description>[포트폴리오] 사진 (2:3)/오른쪽</description>
+    </item>
+    <item>
+      <name>list-2</name>
+      <label>[포트폴리오] 리스트 (2단)</label>
+      <description>[포트폴리오] 리스트 (2단)</description>
+    </item>
+    <item>
+      <name>grid-2</name>
+      <label>[포트폴리오] 그리드 (2단)</label>
+      <description>[포트폴리오] 그리드 (2단)</description>
+    </item>
+    <item>
+      <name>N</name>
+      <label>[포트폴리오] N</label>
+      <description>[포트폴리오] N</description>
+    </item>
+    <item>
+      <name>Z-</name>
+      <label>[포트폴리오] Z-</label>
+      <description>[포트폴리오] Z-</description>
+    </item>
+    <item>
+      <name>grid-5</name>
+      <label>[포트폴리오] 그리드 (5단)</label>
+      <description>[포트폴리오] (5단)</description>
+    </item>
+    <item>
+      <name>title-summary-1/2</name>
+      <label>[타이포그래피] 제목과 설명 (1/2)</label>
+      <description>[타이포그래피] 제목과 설명 (1/2)</description>
+    </item>
+    <item>
+      <name>title-summary-2</name>
+      <label>[타이포그래피] 제목과 설명 (2단)</label>
+      <description>[타이포그래피] 제목과 설명 (2단)</description>
+    </item>
+    <item>
+      <name>title-l-3xl</name>
+      <label>[타이포그래피] 제목 (3X-Large)/왼쪽</label>
+      <description>[타이포그래피] 제목 (3X-Large)/왼쪽</description>
+    </item>
+    <item>
+      <name>title-c-3xl</name>
+      <label>[타이포그래피] 제목 (3X-Large)/중앙</label>
+      <description>[타이포그래피] 제목 (3X-Large)/중앙</description>
+    </item>
+    <item>
+      <name>title-r-3xl</name>
+      <label>[타이포그래피] 제목 (3X-Large)/오른쪽</label>
+      <description>[타이포그래피] 제목 (3X-Large)/오른쪽</description>
+    </item>
+    <item>
+      <name>title-l-2xl</name>
+      <label>[타이포그래피] 제목 (2X-Large)/왼쪽</label>
+      <description>[타이포그래피] 제목 (2X-Large)/왼쪽</description>
+    </item>
+    <item>
+      <name>title-c-2xl</name>
+      <label>[타이포그래피] 제목 (2X-Large)/중앙</label>
+      <description>[타이포그래피] 제목 (2X-Large)/중앙</description>
+    </item>
+    <item>
+      <name>title-r-2xl</name>
+      <label>[타이포그래피] 제목 (2X-Large)/오른쪽</label>
+      <description>[타이포그래피] 제목 (2X-Large)/오른쪽</description>
+    </item>
+    <item>
+      <name>title-l-xl</name>
+      <label>[타이포그래피] 제목 (X-Large)/왼쪽</label>
+      <description>[타이포그래피] 제목 (X-Large)/왼쪽</description>
+    </item>
+    <item>
+      <name>title-c-xl</name>
+      <label>[타이포그래피] 제목 (X-Large)/중앙</label>
+      <description>[타이포그래피] 제목 (X-Large)/중앙</description>
+    </item>
+    <item>
+      <name>title-r-xl</name>
+      <label>[타이포그래피] 제목 (X-Large)/오른쪽</label>
+      <description>[타이포그래피] 제목 (X-Large)/오른쪽</description>
+    </item>
+    <item>
+      <name>title-l-lg</name>
+      <label>[타이포그래피] 제목 (Large)/왼쪽</label>
+      <description>[타이포그래피] 제목 (Large)/왼쪽</description>
+    </item>
+    <item>
+      <name>title-c-lg</name>
+      <label>[타이포그래피] 제목 (Large)/중앙</label>
+      <description>[타이포그래피] 제목 (Large)/중앙</description>
+    </item>
+    <item>
+      <name>title-r-lg</name>
+      <label>[타이포그래피] 제목 (Large)/오른쪽</label>
+      <description>[타이포그래피] 제목 (Large)/오른쪽</description>
+    </item>
+    <item>
+      <name>title-l</name>
+      <label>[타이포그래피] 제목/왼쪽</label>
+      <description>[타이포그래피] 제목/왼쪽</description>
+    </item>
+    <item>
+      <name>title-c</name>
+      <label>[타이포그래피] 제목/중앙</label>
+      <description>[타이포그래피] 제목/중앙</description>
+    </item>
+    <item>
+      <name>title-r</name>
+      <label>[타이포그래피] 제목/오른쪽</label>
+      <description>[타이포그래피] 제목/오른쪽</description>
+    </item>
+    <item>
+      <name>summary-title-1/2</name>
+      <label>[타이포그래피] 설명과 제목 (1/2)</label>
+      <description>[타이포그래피] 설명과 제목 (1/2)</description>
+    </item>
+    <item>
+      <name>summary-l</name>
+      <label>[타이포그래피] 설명/왼쪽</label>
+      <description>[타이포그래피] 설명/왼쪽</description>
+    </item>
+    <item>
+      <name>summary-c</name>
+      <label>[타이포그래피] 설명/중앙</label>
+      <description>[타이포그래피] 설명/중앙</description>
+    </item>
+    <item>
+      <name>summary-r</name>
+      <label>[타이포그래피] 설명/오른쪽</label>
+      <description>[타이포그래피] 설명/오른쪽</description>
+    </item>
+    <item>
+      <name>button-l</name>
+      <label>[타이포그래피] 버튼/왼쪽</label>
+      <description>[타이포그래피] 버튼/왼쪽</description>
+    </item>
+    <item>
+      <name>button-c</name>
+      <label>[타이포그래피] 버튼/중앙</label>
+      <description>[타이포그래피] 버튼/중앙</description>
+    </item>
+    <item>
+      <name>button-r</name>
+      <label>[타이포그래피] 버튼/오른쪽</label>
+      <description>[타이포그래피] 버튼/오른쪽</description>
+    </item>
+    <item>
+      <name>link-l</name>
+      <label>[타이포그래피] 링크/왼쪽</label>
+      <description>[타이포그래피] 링크/왼쪽</description>
+    </item>
+    <item>
+      <name>link-c</name>
+      <label>[타이포그래피] 링크/중앙</label>
+      <description>[타이포그래피] 링크/중앙</description>
+    </item>
+    <item>
+      <name>link-r</name>
+      <label>[타이포그래피] 링크/오른쪽</label>
+      <description>[타이포그래피] 링크/오른쪽</description>
+    </item>
+    <item>
+      <name>keyword-l</name>
+      <label>[타이포그래피] 키워드/왼쪽</label>
+      <description>[타이포그래피] 키워드/왼족</description>
+    </item>
+    <item>
+      <name>keyword-c</name>
+      <label>[타이포그래피] 키워드/중앙</label>
+      <description>[타이포그래피] 키워드/중앙</description>
+    </item>
+    <item>
+      <name>keyword-r</name>
+      <label>[타이포그래피] 키워드/오른쪽</label>
+      <description>[타이포그래피] 키워드/오른쪽</description>
+    </item>
+  </cover>
+  <variables>
+    <variablegroup name="사이드바">
+      <variable>
+        <name>sidebar</name>
+        <label>사이드바 펼치기/접기</label>
+        <description><![CDATA[ 사이드바 ]]></description>
+        <type>BOOL</type>
+        <default>true</default>
+      </variable>
+      <variable>
+        <name>foldable-category</name>
+        <label>카테고리 접기/펼치기</label>
+        <description><![CDATA[ 카테고리 접기/펼치기 ]]></description>
+        <type>BOOL</type>
+        <default>true</default>
+      </variable>
+    </variablegroup>
+    <variablegroup name="글">
+      <variable>
+        <name>header-style</name>
+        <label>헤더 스타일</label>
+        <description><![CDATA[ 헤더 스타일 ]]></description>
+        <type>SELECT</type>
+        <option><![CDATA[
+          [
+            {"name":"simple", "label":"심플", "value":"simple"},
+            {"name":"thumbnail", "label":"섬네일", "value":"thumbnail"},
+            {"name":"screen", "label":"스크린", "value":"screen"}
+          ]
+        ]]></option>
+        <default>thumbnail</default>
+      </variable>
+      <variable>
+        <name>width</name>
+        <label>너비</label>
+        <description><![CDATA[ 너비 ]]></description>
+        <type>STRING</type>
+        <default>720</default>
+      </variable>
+      <variable>
+        <name>toc</name>
+        <label>목차(Table Of Contents)</label>
+        <description><![CDATA[ 목차(Table Of Contents) ]]></description>
+        <type>BOOL</type>
+        <default>true</default>
+      </variable>
+      <variable>
+        <name>scrollspy</name>
+        <label>목차(Scrollspy)</label>
+        <description><![CDATA[ 목차 (Scrollspy) ]]></description>
+        <type>BOOL</type>
+        <default>true</default>
+      </variable>
+      <variable>
+        <name>hljs</name>
+        <label>코드 하이라이팅(Light)</label>
+        <description><![CDATA[ 코드 하이라이팅(Light) ]]></description>
+        <type>STRING</type>
+        <default>xcode</default>
+      </variable>
+      <variable>
+        <name>hljs-dark</name>
+        <label>코드 하이라이팅(Dark)</label>
+        <description><![CDATA[ 코드 하이라이팅(Dark) ]]></description>
+        <type>STRING</type>
+        <default>vs2015</default>
+      </variable>
+    </variablegroup>
+  </variables>
+  <default>
+    <liststyle>list</liststyle>
+    <recentEntries>5</recentEntries>
+    <recentComments>5</recentComments>
+    <lengthOfRecentNotice>32</lengthOfRecentNotice>
+    <lengthOfRecentEntry>32</lengthOfRecentEntry>
+    <lengthOfRecentComment>32</lengthOfRecentComment>
+  </default>
+</skin>
